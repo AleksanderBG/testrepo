@@ -10,7 +10,7 @@ object Main {
         print(pascal(col, row) + " ")
       println()
     }
-  }m
+  }
 
   /**
    * Exercise 1
