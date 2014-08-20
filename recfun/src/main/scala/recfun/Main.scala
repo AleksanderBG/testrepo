@@ -14,7 +14,7 @@ object Main {
 
   /**
    * Exercise 1
-   */
+   *
   def pascal(c: Int, r: Int): Int = {
   	@tailrec
   	def calc(n: Int, k: Int, count: Int, acc: Int): Int = {
@@ -31,6 +31,9 @@ object Main {
   	else
   		0
   }
+  */
+
+  def pascal(c: Int, r: Int): Int = 1
 
   /**
    * Exercise 2
